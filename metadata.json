@@ -1,0 +1,6 @@
+{
+  "name": "MatricAce - Grade 12 Interactive Study App",
+  "description": "An interactive Grade 12 study app that turns uploaded school notes into AI Smart Notes, flashcards, interactive games, quizzes, and personalized study schedules with real progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
